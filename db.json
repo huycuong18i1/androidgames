@@ -1,30 +1,14 @@
 {
   "posts": [
-    {
-        "id": "1",
-        "name": "Ori and the blind Forest",
-        "description": "Ori and the Blind Forest là một game tựa hành động-phiêu lưu platformer, được phát triển bởi Moon Studios và phát hành bởi Microsoft Studios. Trong game, người chơi điều khiển nhân vật chính Ori vượt qua các khu vực, thử thách khác nhau để cứu lấy khu rừng Nibel. Game đã nhận được vô số tán dương từ cộng đồng người chơi cũng như nhiều đề cử và giải thưởng. Phiên bản bổ sung hoàn chính của game, Ori and the Blind Forest Definitive Edition ra mắt năm 2016, và phần tiếp theo của game mang Ori and the Will of the Wisps, dự kiến ra mắt năm 2018.",
-        "unit_price": "1500000",
-        "promotion_price": "https://drive.google.com/open?id=1SuwteiqC-7-iK89kD1s77T6qKaW-wBXr",
-        "image": "https://1.bp.blogspot.com/-v-sX3ix83U8/Xg9p1KtuULI/AAAAAAAAVjM/us5XbXPePmEvGDpm32ee1fjU5A5MGw49QCNcBGAsYHQ/s1600/ori-and-the-will-of-wisps_optimized.jpg"
-    },
-    {
-        "id": "2",
-        "name": "Never Alone",
-        "description": "Never Alone (Kisima Ingitchuna) is the first game developed in collaboration with the Iñupiat, an Alaska Native people. Nearly 40 Alaska Native elders, storytellers and community members contributed to the development of the game. Play as a young Iñupiat girl and an arctic fox as they set out to find the source of the eternal blizzard which threatens the survival of everything they have ever known. Guide both characters in single-player mode or play cooperatively with a friend or family member as you trek through frozen tundra, leap across treacherous ice floes, swim through underwater ice caverns, and face numerous enemies both strange and familiar in the journey to save the girl’s village.",
-        "unit_price": "110000",
-        "promotion_price": "https://drive.google.com/open?id=1SuwteiqC-7-iK89kD1s77T6qKaW-wBXr",
-        "image": "https://www.thegamingreview.com/wp-content/uploads/2015/08/never-alone-arctic-collection.png",
-
-    },
-    {
-        "id": "3",
-        "name": "PUBGM",
-        "description": "PUBG Mobile - PLAYERUNKNOWN'S BATTLEGROUNDS MOBILE là game bắn súng sinh tồn được yêu thích trên toàn thế giới do Tencent & BlueHole nghiên cứu phát triển đã được phát hành chính thức tại Việt Nam duy nhất bởi VNG.",
-        "unit_price": "2000000",
-        "promotion_price": "https://pubgm.zing.vn/imgs/header.jpg",
-        "image": "unnamed.png",
-
-    }
-  ]
+    { "id": 1, "name": "Ori and the blind Forest", "description": "adventure", "image": "https://1.bp.blogspot.com/-v-sX3ix83U8/Xg9p1KtuULI/AAAAAAAAVjM/us5XbXPePmEvGDpm32ee1fjU5A5MGw49QCNcBGAsYHQ/s1600/ori-and-the-will-of-wisps_optimized.jpg" },
+    { "id": 2, "name": "Never Alone", "description": "adventure", "image": "https://images6.alphacoders.com/588/588906.jpg" },
+    { "id": 3, "name": "pascal's wagger", "description": "adventure", "image": "https://i.ytimg.com/vi/Em9VFPutwhQ/maxresdefault.jpg" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
