@@ -1,30 +1,16 @@
 {
-        "id": "2",
-        "name": "Ori and the blind Forest",
-        "description": "Ori and the Blind Forest là một game tựa hành động-phiêu lưu platformer, được phát triển bởi Moon Studios và phát hành bởi Microsoft Studios. Trong game, người chơi điều khiển nhân vật chính Ori vượt qua các khu vực, thử thách khác nhau để cứu lấy khu rừng Nibel. Game đã nhận được vô số tán dương từ cộng đồng người chơi cũng như nhiều đề cử và giải thưởng. Phiên bản bổ sung hoàn chính của game, Ori and the Blind Forest Definitive Edition ra mắt năm 2016, và phần tiếp theo của game mang Ori and the Will of the Wisps, dự kiến ra mắt năm 2018.",
-        "unit_price": "1500000",
-        "image": "https://linkneverdie.com/Assets/Imgs/Post/wallpaper6566.jpg",
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
     },
     {
-        "id": "3",
-        "name": "Never Alone",
-        "description": "Never Alone (Kisima Ingitchuna) is the first game developed in collaboration with the Iñupiat, an Alaska Native people. Nearly 40 Alaska Native elders, storytellers and community members contributed to the development of the game. Play as a young Iñupiat girl and an arctic fox as they set out to find the source of the eternal blizzard which threatens the survival of everything they have ever known. Guide both characters in single-player mode or play cooperatively with a friend or family member as you trek through frozen tundra, leap across treacherous ice floes, swim through underwater ice caverns, and face numerous enemies both strange and familiar in the journey to save the girl’s village.",
-        "unit_price": "110000",
-        "image": "https://hb.imgix.net/dc87ce2a0f3579624862ade59ee71959b9427375.jpg?auto=compress,format&fit=crop&h=353&w=616&s=72447002b54febaf34bf2eecfddac233",
+      "id": 2,
+      "title": "Post 2"
     },
     {
-        "id": "4",
-        "name": "PUBGM",
-        "description": "PUBG Mobile - PLAYERUNKNOWN'S BATTLEGROUNDS MOBILE là game bắn súng sinh tồn được yêu thích trên toàn thế giới do Tencent & BlueHole nghiên cứu phát triển đã được phát hành chính thức tại Việt Nam duy nhất bởi VNG.",
-        "unit_price": "2000000",
-        "image": "https://vnreview.vn/image/20/61/26/2061263.jpg",
-
-    },
-    {
-        "id": "5",
-        "name": "ZingspeedM",
-        "description": "ZingSpeed Mobile – Tốc Độ Bộc Lộ Kỹ Năng ZingSpeed Mobile là game đua xe 3D đỉnh cao trên di động, xây dựng dựa trên bản gốc ZingSpeed PC, giữ nguyên các kỹ năng cũng như độ sâu thao tác điều khiển, đồng thời cải tiến vượt bậc trong tạo hình nhân vật và thời trang. Cảm giác drift mới, tính cạnh tranh và tương tác cao tạo nên điểm đặc sắc cho game. Từ cốt lõi là những kiểu chơi quen thuộc là Đua Tốc Độ, Đua Đạo Cụ, Đua Xếp Hạng, Cốt Truyện,... ZingSpeed Mobile dần đa dạng hóa tính năng với những kiểu đua mới lạ như Đua Xuyên Không, Đua Tiếp Sức, Đua Tẩu Thoát, Đua Ván Trượt, Đua Biên Cảnh,…",
-        "unit_price": "1600000",
-        "image": "https://image.thanhnien.vn/660/uploaded/truongnghi/2019_04_09/zingspeedmobile1_njhm.jpg",
-
+      "id": 3,
+      "title": "Post 3"
     }
+  ]
+}
