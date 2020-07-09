@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "name": "Ori and the blind Forest", "description": "adventure", "image": "https://1.bp.blogspot.com/-v-sX3ix83U8/Xg9p1KtuULI/AAAAAAAAVjM/us5XbXPePmEvGDpm32ee1fjU5A5MGw49QCNcBGAsYHQ/s1600/ori-and-the-will-of-wisps_optimized.jpg" },
-    { "id": 2, "name": "Never Alone", "description": "adventure", "image": "https://images6.alphacoders.com/588/588906.jpg" },
-    { "id": 3, "name": "pascal's wagger", "description": "adventure", "image": "https://i.ytimg.com/vi/Em9VFPutwhQ/maxresdefault.jpg" }
+    { "id": 150000, "name": "Ori and the blind Forest", "description": "adventure", "image": "https://1.bp.blogspot.com/-v-sX3ix83U8/Xg9p1KtuULI/AAAAAAAAVjM/us5XbXPePmEvGDpm32ee1fjU5A5MGw49QCNcBGAsYHQ/s1600/ori-and-the-will-of-wisps_optimized.jpg" },
+    { "id": 200000, "name": "Never Alone", "description": "adventure", "image": "https://images6.alphacoders.com/588/588906.jpg" },
+    { "id": 300000, "name": "pascal's wagger", "description": "adventure", "image": "https://i.ytimg.com/vi/Em9VFPutwhQ/maxresdefault.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
